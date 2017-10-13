@@ -6,13 +6,13 @@
     End Function
 
     Function About() As ActionResult
-        ViewData("Message") = "Your application description page."
+        ViewData("Message") = "Software ELQUIAULA 1.0."
 
         Return View()
     End Function
 
     Function Contact() As ActionResult
-        ViewData("Message") = "Your contact page."
+        ViewData("Message") = "Contacto Equipo ELQUIDEAS LTDA."
 
         Return View()
     End Function

@@ -3,29 +3,27 @@
 End Code
 
 <div class="jumbotron">
-    <h1>ASP.NET</h1>
-    <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
-    <p><a href="https://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+    <h1>ELQUIAULA 1.0</h1>
+    <p class="lead">Es un software diseñado para los colegios para llevar su control y registro en forma integral y Restringido por Usuarios.</p>
+    <p><a href="http://www.elquideas.cl" class="btn btn-primary btn-lg">Leer Más &raquo;</a></p>
 </div>
 
 <div class="row">
     <div class="col-md-4">
-        <h2>Getting started</h2>
+        <h2>Caracteristicas</h2>
         <p>
-            ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that
-            enables a clean separation of concerns and gives you full control over markup
-            for enjoyable, agile development.
+           Completamente Online, diseñado para llevar control de informes curriculares, Estadisticas de asistencia, Anotaciones, Base de Datos Oracle.
         </p>
-        <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>
+        <p><a class="btn btn-default" href="#">Learn more &raquo;</a></p>
     </div>
     <div class="col-md-4">
-        <h2>Get more libraries</h2>
-        <p>NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.</p>
-        <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301866">Learn more &raquo;</a></p>
+        <h2>Seguro y Restringido</h2>
+        <p>Software con todas las medidas de seguridad y accesible solo por usuarios y contraseñas definidos.</p>
+        <p><a class="btn btn-default" href="#">Learn more &raquo;</a></p>
     </div>
     <div class="col-md-4">
-        <h2>Web Hosting</h2>
-        <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
-        <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
+        <h2>Posibilidad de Escalar</h2>
+        <p>Si tu Colegio necesita otro modulo especifico, se puede diseñar e implementar para que pueda ser usado para su establecimiento</p>
+        <p><a class="btn btn-default" href="#">Learn more &raquo;</a></p>
     </div>
 </div>
